@@ -12,7 +12,7 @@ topology:
     kind: nokia_srlinux
   kinds:
     nokia_srlinux:
-      image: ghcr.io/nokia/srlinux:24.10.2
+      image: ghcr.io/nokia/srlinux:25.3.2
       type: ixrd3l
       binds:
         - node-isolation.py:/etc/opt/srlinux/eventmgr/node-isolation.py

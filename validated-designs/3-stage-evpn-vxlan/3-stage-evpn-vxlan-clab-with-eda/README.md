@@ -146,3 +146,4 @@ For quick teardown, another bash script called `destroy-3-stage-nvd` is provided
 |--------------|-------------|-------------|
 | 24.12.1 | 24.10.2 | March 2025 |
 | 25.4.1  | 24.10.2 | May 2025   |
+| 25.4.2  | 25.3.2  | July 2025  |

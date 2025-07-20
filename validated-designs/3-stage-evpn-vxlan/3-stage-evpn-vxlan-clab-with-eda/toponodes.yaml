@@ -13,10 +13,10 @@ metadata:
     eda.nokia.com/security-profile: managed
 spec:
   platform: 7220 IXR-D3L
-  version: 24.10.2
+  version: 25.3.2
   onBoarded: false
   operatingSystem: srl
-  nodeProfile: clab-srlinux-24.10.2
+  nodeProfile: clab-srlinux-25.3.2
   productionAddress:
     ipv4: 172.21.21.11
     ipv6: ""
@@ -34,10 +34,10 @@ metadata:
     eda.nokia.com/security-profile: managed
 spec:
   platform: 7220 IXR-D3L
-  version: 24.10.2
+  version: 25.3.2
   onBoarded: false
   operatingSystem: srl
-  nodeProfile: clab-srlinux-24.10.2
+  nodeProfile: clab-srlinux-25.3.2
   productionAddress:
     ipv4: 172.21.21.12
     ipv6: ""
@@ -55,10 +55,10 @@ metadata:
     eda.nokia.com/security-profile: managed
 spec:
   platform: 7220 IXR-D3L
-  version: 24.10.2
+  version: 25.3.2
   onBoarded: false
   operatingSystem: srl
-  nodeProfile: clab-srlinux-24.10.2
+  nodeProfile: clab-srlinux-25.3.2
   productionAddress:
     ipv4: 172.21.21.13
     ipv6: ""
@@ -76,10 +76,10 @@ metadata:
     eda.nokia.com/security-profile: managed
 spec:
   platform: 7220 IXR-D3L
-  version: 24.10.2
+  version: 25.3.2
   onBoarded: false
   operatingSystem: srl
-  nodeProfile: clab-srlinux-24.10.2
+  nodeProfile: clab-srlinux-25.3.2
   productionAddress:
     ipv4: 172.21.21.14
     ipv6: ""
@@ -97,10 +97,10 @@ metadata:
     eda.nokia.com/security-profile: managed
 spec:
   platform: 7220 IXR-D3L
-  version: 24.10.2
+  version: 25.3.2
   onBoarded: false
   operatingSystem: srl
-  nodeProfile: clab-srlinux-24.10.2
+  nodeProfile: clab-srlinux-25.3.2
   productionAddress:
     ipv4: 172.21.21.15
     ipv6: ""
@@ -118,10 +118,10 @@ metadata:
     eda.nokia.com/security-profile: managed
 spec:
   platform: 7220 IXR-D3L
-  version: 24.10.2
+  version: 25.3.2
   onBoarded: false
   operatingSystem: srl
-  nodeProfile: clab-srlinux-24.10.2
+  nodeProfile: clab-srlinux-25.3.2
   productionAddress:
     ipv4: 172.21.21.16
     ipv6: ""
@@ -139,10 +139,10 @@ metadata:
     eda.nokia.com/security-profile: managed
 spec:
   platform: 7220 IXR-D3L
-  version: 24.10.2
+  version: 25.3.2
   onBoarded: false
   operatingSystem: srl
-  nodeProfile: clab-srlinux-24.10.2
+  nodeProfile: clab-srlinux-25.3.2
   productionAddress:
     ipv4: 172.21.21.101
     ipv6: ""
@@ -160,10 +160,10 @@ metadata:
     eda.nokia.com/security-profile: managed
 spec:
   platform: 7220 IXR-D3L
-  version: 24.10.2
+  version: 25.3.2
   onBoarded: false
   operatingSystem: srl
-  nodeProfile: clab-srlinux-24.10.2
+  nodeProfile: clab-srlinux-25.3.2
   productionAddress:
     ipv4: 172.21.21.102
     ipv6: ""
